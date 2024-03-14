@@ -1,0 +1,63 @@
+{
+  "Profesores": [
+    {
+      "nombre": "Enzo",
+      "apellido": "Flores",
+      "materias": [
+        {
+          "nombre": "NodeJS",
+          "dificultad": "Intermedia"
+        },
+        {
+          "nombre": "ReactJS",
+          "dificultad": "Inicial"
+        },
+        {
+          "nombre": "TypeScript",
+          "dificultad": "Inicial"
+        }
+      ],
+      "id": "60c9"
+    }
+  ],
+  "Alumnos": [
+    {
+      "nombre": "Fabio",
+      "apellido": "Rodriguez",
+      "promedio": 6.5,
+      "id": "b9c8"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 8,
+      "id": "4f47"
+    },
+    {
+      "nombre": "Agustina",
+      "apellido": "Garay",
+      "promedio": 9.5,
+      "id": "4e6b"
+    }
+  ],
+  "Cursos": [
+    {
+      "nombre": "NodeJS",
+      "duracion": 7,
+      "dificultad": "Intermedia",
+      "id": "f2da"
+    },
+    {
+      "nombre": "ReactJS",
+      "duracion": 7,
+      "dificultad": "Intermedia",
+      "id": "c793"
+    },
+    {
+      "nombre": "TypeScript",
+      "duracion": 7,
+      "dificultad": "Inicial",
+      "id": "9f01"
+    }
+  ]
+}

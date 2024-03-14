@@ -1,0 +1,14 @@
+{
+  "name": "practica-1-json-server",
+  "version": "1.0.0",
+  "description": "servidor pequeño de informacion de cursos",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Enzo Flores",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
